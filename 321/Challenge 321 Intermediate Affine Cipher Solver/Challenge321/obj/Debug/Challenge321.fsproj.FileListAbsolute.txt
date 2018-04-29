@@ -1,0 +1,9 @@
+c:\Users\Chris\Documents\VSCode Projects\New folder\Challenge321\Challenge321\bin\Debug\Challenge321.exe.config
+c:\Users\Chris\Documents\VSCode Projects\New folder\Challenge321\Challenge321\bin\Debug\Challenge321.exe
+c:\Users\Chris\Documents\VSCode Projects\New folder\Challenge321\Challenge321\bin\Debug\FSharp.Core.dll
+c:\Users\Chris\Documents\VSCode Projects\New folder\Challenge321\Challenge321\bin\Debug\FSharp.Core.xml
+c:\Users\Chris\Documents\VSCode Projects\New folder\Challenge321\Challenge321\obj\Debug\Challenge321.fsprojResolveAssemblyReference.cache
+c:\Users\Chris\Documents\VSCode Projects\New folder\Challenge321\Challenge321\bin\Debug\Challenge321.XML
+c:\Users\Chris\Documents\VSCode Projects\New folder\Challenge321\Challenge321\bin\Debug\Challenge321.pdb
+c:\Users\Chris\Documents\VSCode Projects\New folder\Challenge321\Challenge321\obj\Debug\Challenge321.exe
+c:\Users\Chris\Documents\VSCode Projects\New folder\Challenge321\Challenge321\obj\Debug\Challenge321.pdb

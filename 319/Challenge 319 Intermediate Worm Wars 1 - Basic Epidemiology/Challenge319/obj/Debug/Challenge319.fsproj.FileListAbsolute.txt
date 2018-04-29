@@ -1,0 +1,12 @@
+c:\Users\Chris\Documents\VSCode Projects\New folder\Challenge319\Challenge319\bin\Debug\Challenge319.exe.config
+c:\Users\Chris\Documents\VSCode Projects\New folder\Challenge319\Challenge319\bin\Debug\Challenge319.exe
+c:\Users\Chris\Documents\VSCode Projects\New folder\Challenge319\Challenge319\bin\Debug\FSharp.Core.dll
+c:\Users\Chris\Documents\VSCode Projects\New folder\Challenge319\Challenge319\bin\Debug\FSharp.Core.xml
+c:\Users\Chris\Documents\VSCode Projects\New folder\Challenge319\Challenge319\obj\Debug\Challenge319.fsprojResolveAssemblyReference.cache
+c:\Users\Chris\Documents\VSCode Projects\New folder\Challenge319\Challenge319\bin\Debug\FSharp.Charting.dll
+c:\Users\Chris\Documents\VSCode Projects\New folder\Challenge319\Challenge319\bin\Debug\FSharp.Charting.pdb
+c:\Users\Chris\Documents\VSCode Projects\New folder\Challenge319\Challenge319\bin\Debug\FSharp.Charting.xml
+c:\Users\Chris\Documents\VSCode Projects\New folder\Challenge319\Challenge319\obj\Debug\Challenge319.fsproj.Challenge319.exe.config
+c:\Users\Chris\Documents\VSCode Projects\New folder\Challenge319\Challenge319\bin\Debug\Challenge319.pdb
+c:\Users\Chris\Documents\VSCode Projects\New folder\Challenge319\Challenge319\obj\Debug\Challenge319.exe
+c:\Users\Chris\Documents\VSCode Projects\New folder\Challenge319\Challenge319\obj\Debug\Challenge319.pdb
