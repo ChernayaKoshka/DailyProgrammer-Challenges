@@ -13,9 +13,9 @@ let rec gcd u v =
         | _ -> 
             match u with
             | Even -> 
-              match v with
-              | Even -> 2 * gcd (u/2) (v/2) 
-              | Odd -> gcd (u/2) v
+                match v with
+                | Even -> 2 * gcd (u/2) (v/2) 
+                | Odd -> gcd (u/2) v
             | Odd -> 
                 match v with
                 | Even -> gcd u (v/2)
