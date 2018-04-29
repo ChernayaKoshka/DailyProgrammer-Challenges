@@ -1,25 +1,28 @@
-open System
-open System.IO 
-
-let (|Odd|Even|) (u:int) = match u with
-                           | v when u%2 = 0 -> Even
-                           | _ -> Odd
+let (|Odd|Even|) (u:int) = 
+    match u with
+    | _ when u%2 = 0 -> Even
+    | _ -> Odd
                            
 let rec gcd u v = 
     match u with
     | 0 -> v
-    | z when u=v -> u
-    | _ -> match v with
-           | 0 -> u
-           | _ -> match u with
-                  | Even -> match v with
-                            | Even -> 2 * gcd (u/2) (v/2) 
-                            | Odd -> gcd (u/2) v
-                  | Odd -> match v with
-                           | Even -> gcd u (v/2)
-                           | Odd -> match u > v with
-                                    | true -> gcd ((u-v)/2) v
-                                    | false -> gcd ((v-u)/2) u
+    | _ when u=v -> u
+    | _ -> 
+        match v with
+        | 0 -> u
+        | _ -> 
+            match u with
+            | Even -> 
+              match v with
+              | Even -> 2 * gcd (u/2) (v/2) 
+              | Odd -> gcd (u/2) v
+            | Odd -> 
+                match v with
+                | Even -> gcd u (v/2)
+                | Odd -> 
+                    match u > v with
+                    | true -> gcd ((u-v)/2) v
+                    | false -> gcd ((v-u)/2) u
 
 [<EntryPoint>]
 let main argv =
